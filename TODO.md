@@ -1,1 +1,7 @@
-debug and buffer recency
+gitsigns
+
+lsp
+treesit
+cmp engine
+mini.nvim
+statusline
